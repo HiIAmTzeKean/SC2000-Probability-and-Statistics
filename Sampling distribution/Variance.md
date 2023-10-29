@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - Statistics
+  - Math
 alias: VAR
 date: 05--Aug--2022
 ---

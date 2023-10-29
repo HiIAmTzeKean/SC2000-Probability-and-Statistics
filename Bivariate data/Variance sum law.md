@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Variance sum law
 
 ## Variance sum law 1

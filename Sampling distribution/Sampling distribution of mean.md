@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Sampling distribution of mean
 
 We perform [sampling distribution](Sampling%20distribution.md) of N samples and calculate the mean repeatedly.

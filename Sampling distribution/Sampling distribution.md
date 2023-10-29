@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Sampling distribution
 
 Relative frequency distribution with when the number of sets sampled from population approaches infinity.

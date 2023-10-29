@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - Statistics
+  - Math
 alias: Central tendency
 date: 15--Aug--2022
 ---

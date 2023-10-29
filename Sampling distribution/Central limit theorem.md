@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Central limit theorem
 
 Sums and mean of random sample from population tends to have an approximated normal distribution.

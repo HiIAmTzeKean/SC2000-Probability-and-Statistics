@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - Statistics
+  - Math
 alias: Surjective
 date: 08--Jun--2023
 ---

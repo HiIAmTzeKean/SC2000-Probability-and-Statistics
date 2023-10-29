@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Probability
 
 $Probability = \frac{No. favourable}{No. all outcomes}$

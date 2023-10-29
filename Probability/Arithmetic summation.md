@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - Statistics
+  - Math
 date: 05--Jun--2023
 ---
 

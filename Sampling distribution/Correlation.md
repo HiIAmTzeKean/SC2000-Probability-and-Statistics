@@ -1,5 +1,8 @@
 ---
-tags: 🌱
+tags:
+  - 🌱
+  - Statistics
+  - Math
 alias: Correlated
 date: 14--Aug--2022
 ---

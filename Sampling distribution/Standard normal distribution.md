@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Standard normal distribution
 
 A [[Normal distribution]] of random variable with mean of 0 and standard deviation of 1. Denoted with letter $Z$.

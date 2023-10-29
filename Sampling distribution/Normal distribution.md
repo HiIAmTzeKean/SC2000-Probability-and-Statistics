@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Normal distribution
 
 A graph that describe specific [[Probability density function]] which describe the behaviour of a [[Continuous random variable]] in a system. 

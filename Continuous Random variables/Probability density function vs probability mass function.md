@@ -1,6 +1,10 @@
 ---
-tags: 🌱, TODO
+tags:
+  - 🌱
+  - Statistics
+  - Math
 date: 14--Aug--2022
+modified: 29--Oct--2023
 ---
 
 # Probability density function vs probability mass function

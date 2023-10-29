@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Other standard of measures
 
 ## [[Trimean]]

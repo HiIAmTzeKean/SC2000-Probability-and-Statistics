@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Sampling distribution of r
 
 The distribution of the correlation value r of repeated samples is the sampling distribution of [r](Pearson%20correlation.md).

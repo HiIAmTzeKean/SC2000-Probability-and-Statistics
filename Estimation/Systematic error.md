@@ -1,6 +1,8 @@
 ---
 status: 🌱
-tags: 
+tags:
+  - Statistics
+  - Math
 date: 01--Jul--2022
 ---
 

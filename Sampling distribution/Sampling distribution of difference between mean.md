@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Sampling distribution of difference between mean
 
 ## Formula

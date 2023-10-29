@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Hypergeometric Distribution
 
 ## Formula

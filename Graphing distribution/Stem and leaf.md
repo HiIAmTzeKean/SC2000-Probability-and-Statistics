@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Stem and leaf
 
 Purpose: clarifies the shape of the plot, hence revealing the distribution

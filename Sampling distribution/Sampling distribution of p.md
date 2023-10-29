@@ -1,3 +1,8 @@
+---
+tags:
+  - Statistics
+  - Math
+---
 # Sampling distribution of p
 
 Random sample of n observations selected from [[Binomial distribution]] with [[Parameter]] p, and we want to find $\bar{p}$ sample statistics.
