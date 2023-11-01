@@ -4,8 +4,8 @@ tags:
   - Statistics
   - Math
 date: 08--Jun--2023
+modified: 29--Oct--2023
 ---
-
 # Range
 
 The range is of a [[Matrix]] is its [[Column span]].

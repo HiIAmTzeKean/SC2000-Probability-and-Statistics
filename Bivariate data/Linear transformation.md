@@ -4,6 +4,7 @@ tags:
   - Statistics
   - Math
 date: 09--Aug--2022
+modified: 30--Oct--2023
 ---
 
 # Linear transformation
@@ -26,14 +27,16 @@ No effect on correlation. Suppose a relationship of Y and *X* and we now have to
 
 Refer to image above, since covariance is scaled by some multiple during linear transformation, and standard deviation is also affected by the same multiple. The numerator and denominator cancels out each other.
 
+### Examples
+- [[Normalisation]]
+- [[Standardisation]]
+- [[Centering]]
 ### Non-linear transformation
 - Square root
 - Power
 - Log
-## [[Linear algebra]]
-[[Range]], [[Image]],[[Kernel]],[[Nullity]],[[Inverse]]
+## Relation to [[Linear algebra]]
 
-[[One to one]]
 
 
 ---

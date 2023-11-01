@@ -4,13 +4,14 @@ tags:
   - Statistics
   - Math
 date: 15--Aug--2022
+modified: 30--Oct--2023
 ---
 
 # Mean
 
 ## Relation to central tendency
 Minimises absolute square differences for each $x$ in dataset
-Refer to [[Sample mean]] and [[Population mean]]
+Refer to [[Sample mean]] and [[Population mean]]. This is typically seen in contrast to [[Median]] which minimises absolute deviation.
 ## Question
 ### Why [[Variance]] use mean instead of [[Median]]
 - The mean minimises the [[Mean squared error]]
