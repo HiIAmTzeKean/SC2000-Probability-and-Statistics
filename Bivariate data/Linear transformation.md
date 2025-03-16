@@ -4,7 +4,7 @@ tags:
   - Statistics
   - Math
 date: 09--Aug--2022
-modified: 30--Oct--2023
+modified: 18--Jan--2024
 ---
 
 # Linear transformation
@@ -35,9 +35,17 @@ Refer to image above, since covariance is scaled by some multiple during linear 
 - Square root
 - Power
 - Log
-## Relation to [[Linear algebra]]
-
-
+## [[Linear algebra]]
+[[Shear transformation]]
+[[Scaling transformation]]
+[[Reflection transformation]]
+[[Projection]]
+[[Rotation transformation]]
+Rotation-dialation
+Rotation in space
+Reflection at xy
+Projection into space
+[[Orthogonal transformation]]
 
 ---
 Links: [[Standard deviation]] - [[Variance]]

@@ -20,7 +20,7 @@ The goal is to select [[Statistical learning]] method that results in low varian
 ### Consequence of high variance
 High model variance indicates
 1. More [[Flexible model]]
-    1. Slight change in [[Training data]] can lead to drastic changes in prediction
+    1. Slight change in [[Train data]] can lead to drastic changes in prediction
 2. Possible [[Overfitting]]
 3. Poor [[Generalisation]]
 ##  Variance of [[Random variable]]
